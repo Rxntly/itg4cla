@@ -1,0 +1,331 @@
+﻿================================================================================
+FILE: Dalia  holcom 15 JUNE to19 JUNE menu.xlsx
+================================================================================
+
+--- Sheet: Sheet1 (rows=62, cols=6) ---
+R2: C3:Holcom Cafeteria Menu  
+March 23- March 27 - 2026
+R3: C2:Monday | C3:Tuesday | C4:Wednesday | C5:Thursday | C6:Friday
+R4: C2:Breakfast | C3:Breakfast | C4:Breakfast | C5:Breakfast | C6:Breakfast
+R6: C2:Baguette or Kaak | C3:Baguette or Kaak | C4:Baguette or Kaak | C5:Baguette or Kaak | C6:Baguette or Kaak
+R7: C2:. Labneh | C3:. Labneh | C4:. Labneh | C5:. Labneh | C6:. Labneh
+R8: C2:. Halloum | C3:. Halloum | C4:. Halloum | C5:. Halloum | C6:. Halloum
+R9: C2:. Feta cheese | C3:. Feta cheese | C4:. Feta cheese | C5:. Feta cheese | C6:. Feta cheese
+R10: C2:. Mixed cheese | C3:. Mixed cheese | C4:. Mixed cheese | C5:. Mixed cheese | C6:. Mixed cheese
+R11: C2:. Turkey and Cheese | C3:. Turkey and Cheese | C4:. Turkey and Cheese | C5:. Turkey and Cheese | C6:. Turkey and Cheese
+R13: C2:Croissant & Puff Pastry | C3:Croissant & Puff Pastry | C4:Croissant & Puff Pastry | C5:Croissant & Puff Pastry | C6:Croissant & Puff Pastry
+R14: C2:. Thyme Croissant | C3:. Thyme Croissant | C4:. Thyme Croissant | C5:. Thyme Croissant | C6:. Thyme Croissant
+R15: C2:. Cheese Croissant | C3:. Cheese Croissant | C4:. Cheese Croissant | C5:. Cheese Croissant | C6:. Cheese Croissant
+R16: C2:. Chocolate Croissant | C3:. Chocolate Croissant | C4:. Chocolate Croissant | C5:. Chocolate Croissant | C6:. Chocolate Croissant
+R17: C2:. Pain Suisse | C3:. Pain Suisse | C4:. Pain Suisse | C5:. Pain Suisse | C6:. Pain Suisse
+R18: C2:. Rock Roll | C3:. Rock Roll | C4:. Rock Roll | C5:. Rock Roll | C6:. Rock Roll
+R20: C2:Healthy Bagles | C3:Healthy Bagels | C4:Healthy Bagels | C5:Healthy Bagels | C6:Healthy Bagels
+R21: C2:. Bagle Cream Cheese | C3:. Bagel Cream Cheese | C4:. Bagel Cream Cheese | C5:. Bagel Cream Cheese | C6:. Bagel Cream Cheese
+R22: C2:. Bagle Grilled Vegetables | C3:. Bagel Grilled Vegetables | C4:. Bagel Grilled Vegetables | C5:. Bagel Grilled Vegetables | C6:. Bagel Grilled Vegetables
+R23: C2:. Bagle Turkey & Cheese | C3:. Bagel Turkey & Cheese | C4:. Bagel Turkey & Cheese | C5:. Bagel Turkey & Cheese | C6:. Bagel Turkey & Cheese
+R25: C2:Manakish | C3:Manakish | C4:Manakish | C5:Manakish | C6:Manakish
+R26: C2:. Thyme Manakish | C3:. Thyme Manakish | C4:. Thyme Manakish | C5:. Thyme Manakish | C6:. Thyme Manakish
+R27: C2:. Cheese Manakish | C3:. Cheese Manakish | C4:. Cheese Manakish | C5:. Cheese Manakish | C6:. Cheese Manakish
+R29: C2:Eggs | C3:Eggs | C4:Eggs | C5:Eggs | C6:Eggs
+R30: C2:. Scrumbled Eggs | C3:. Scrumbled Eggs | C4:. Scrumbled Eggs | C5:. Scrumbled Eggs | C6:. Scrumbled Eggs
+R31: C2:. Shakshouka | C3:. Shakshouka | C4:. Shakshouka | C5:. Shakshouka | C6:. Shakshouka
+R33: C2:Appetizers & Mouajanat | C3:Appetizers & Mouajanat | C4:Appetizers & Mouajanat | C5:Appetizers & Mouajanat | C6:Appetizers & Mouajanat
+R34: C2:. Warak Enab bala lahme | C3:. Yalanji (zucchini & eggplant) | C4:. Hommos | C5:. Eggplant moutabbal | C6:. Batata Harra
+R35: C2:. Hommos | C3:. Eggplant moutabbal | C4:. Hindbeh Bel Zeit | C5:. Mini Fatayer thyme & spinach | C6:. Hommos
+R37: C3:Holcom Cafeteria Menu
+ March 23- March 27 - 2026
+R38: C2:Monday | C3:Tuesday | C4:Wednesday | C5:Thursday | C6:Friday
+R39: C2:Cold Sandwich | C3:Cold Sandwich | C4:Cold Sandwich | C5:Cold Sandwich | C6:Cold Sandwich
+R40: C2:. Chicken avocat | C3:. Chicken honey-mustard | C4:. Roast beef sandwich | C5:. Chicken Caeser baguette | C6:. Shredded crab sandwich
+R41: C2:. Tuna baguette | C3:. Chicken pesto baguette | C4:. White tuna ciabatta | C5:. Chicken BBQ baguette | C6:. White tuna ciabatta
+R43: C2:Salads | C3:Salads | C4:Salads | C5:Salads | C6:Salads
+R44: C2:.Gluten free pasta tuna salad | C3:. Greeck salad | C4:. Season Salad | C5:. Nicoise salad | C6:. Rocca & mushroom salad
+R45: C2:. Kale edamame salad | C3:. Nicoise salad | C4:. Tabbouleh | C5:. Salmon salad | C6:. Gluten free pasta tuna salad
+R46: C2:. Fattouche | C3:. Fattouch | C4:. Crab exotique salad | C5:. Grilled vegetables salad | C6:. Crab exotique salad
+R47: C2:. Tabbouleh | C3:. Kale Quinoa  salad | C4:. Chicken fajitas salad | C5:. Kale Caesar salad | C6:. Kale quinoa salad
+R48: C2:. Kale Quinoa salad | C3:. Season salad | C4:. Fattouche | C5:. Season salad | C6:. Fattouche
+R50: C2:Hot Sandwich | C3:Hot Sandwich | C4:Hot Sandwich | C5:Hot Sandwich | C6:Hot Sandwich
+R51: C2:. Grilled vegetables platter with hommos | C3:. Grilled vegetables platter with hommos | C4:. Grilled vegetables platter with hommos | C5:. Grilled vegetables platter with hommos | C6:. Grilled vegetables platter with hommos
+R52: C2:. French fries sandwich | C3:. French fries sandwich | C4:. French fries sandwich | C5:. French fries sandwich | C6:. French fries sandwich
+R53: C2:. Chicken avocat submarine | C3:. Tawouk Sandwich | C5:. Chicken mushroom submarine | C6:. Falafel sandwich
+R55: C2:Main Dish | C3:Main Dish | C4:Main Dish | C5:Main Dish | C6:Main Dish
+R56: C2:. Grilled kafta, bewaz, hummus and fries  30 | C3:. Cheikh el mehshi and rice 20 | C5:. Riz Betfin, meat and laban  15 | C6:. Samkeh Harra, wedge potatoes and tajen sauce 20
+R57: C2:. Cordon Blu escaloppe, wedge potatoes and coleslaw 40 | C3:. Chicken supr├¬me sauce and rice 30 | C5:. Grilled chicken breast, mashed potatoes, vegetables and sauce  40 | C6:. Poulet Malay with rice 25
+R58: C2:. Vegetarian stew and rice 15 | C3:. Chick peas fatte and laban 20 | C5:. Penne with tomate sauce 20 | C6:. Loubieh bel zeit with vegetables 25
+R60: C2:Dessert | C3:Dessert | C4:Dessert | C5:Dessert | C6:Dessert
+R61: C2:. Check our New Healthy Dessert selection | C3:. Check our New Healthy Dessert selection | C4:. Check our New Healthy Dessert selection | C5:. Check our New Healthy Dessert selection | C6:. Check our New Healthy Dessert selection
+R62: C2:. Healthy menu: Grilled chicken breast platter, baked potato and green salad with lemon mustard dressing is available on daily basis.
+. New on the menu: Grilled salmon filet with vegetables, baked potatoes and lemon butter sauce, or Grilled beef filet with vegetables, baked potatoes  and mushroom sauce for 1,200,000 LBP TTC                                                         
+To ensure the best service and avoid any possible delays or misunderstandings, we kindly ask that you to reserve your plate before 11:30 AM.
+
+--- Sheet: Menu (rows=63, cols=6) ---
+R2: C3:Holcom Cafeteria Menu
+ JUNE 15Th-JUNE 19TH , 2026
+R3: C2:Monday | C3:Tuesday | C4:Wednesday | C5:Thursday | C6:Friday
+R4: C2:Breakfast | C3:Breakfast | C4:Breakfast | C5:Breakfast | C6:Breakfast
+R5: C2:Baguette or Kaak | C3:Baguette or Kaak | C4:Baguette or Kaak | C5:Baguette or Kaak | C6:Baguette or Kaak
+R6: C2:. Labneh | C3:. Labneh | C4:. Labneh | C5:. Labneh | C6:. Labneh
+R7: C2:. Halloum | C3:. Halloum | C4:. Halloum | C5:. Halloum | C6:. Halloum
+R8: C2:. Feta cheese | C3:. Feta cheese | C4:. Feta cheese | C5:. Feta cheese | C6:. Feta cheese
+R9: C2:. Mixed cheese | C3:. Mixed cheese | C4:. Mixed cheese | C5:. Mixed cheese | C6:. Mixed cheese
+R10: C2:. Turkey and cheese | C3:. Turkey and cheese | C4:. Turkey and cheese | C5:. Turkey and cheese | C6:. Turkey and cheese
+R12: C2:Croissant & Puff Pastry | C3:Croissant & Puff Pastry | C4:Croissant & Puff Pastry | C5:Croissant & Puff Pastry | C6:Croissant & Puff Pastry
+R13: C2:. Thyme croissant | C3:. Thyme croissant | C4:. Thyme croissant | C5:. Thyme croissant | C6:. Thyme croissant
+R14: C2:. Cheese croissant | C3:. Cheese croissant | C4:. Cheese croissant | C5:. Cheese croissant | C6:. Cheese croissant
+R15: C2:. Chocolate croissant | C3:. Chocolate croissant | C4:. Chocolate croissant | C5:. Chocolate croissant | C6:. Chocolate croissant
+R16: C2:. Pain Suisse | C3:. Pain Suisse | C4:. Pain Suisse | C5:. Pain Suisse | C6:. Pain Suisse
+R17: C2:. Rock roll | C3:. Rock roll | C4:. Rock roll | C5:. Rock roll | C6:. Rock roll
+R19: C2:Healthy Bagles | C3:Healthy Bagels | C4:Healthy Bagels | C5:Healthy Bagels | C6:Healthy Bagels
+R20: C2:. Bagel cream cheese | C3:. Bagel cream cheese | C4:. Bagel cream cheese | C5:. Bagel cream cheese | C6:. Bagel cream cheese
+R21: C2:. Bagel grilled vegetables | C3:. Bagel grilled vegetables | C4:. Bagel grilled vegetables | C5:. Bagel grilled vegetables | C6:. Bagel grilled vegetables
+R22: C2:. Bagel turkey & cheese | C3:. Bagel turkey & cheese | C4:. Bagel turkey & cheese | C5:. Bagel turkey & cheese | C6:. Bagel turkey & cheese
+R24: C2:Manakish | C3:Manakish | C4:Manakish | C5:Manakish | C6:Manakish
+R25: C2:. Thyme manakish | C3:. Thyme manakish | C4:. Thyme manakish | C5:. Thyme manakish | C6:. Thyme manakish
+R26: C2:. Cheese manakish | C3:. Cheese manakish | C4:. Cheese manakish | C5:. Cheese manakish | C6:. Cheese manakish
+R28: C2:Eggs | C3:Eggs | C4:Eggs | C5:Eggs | C6:Eggs
+R29: C2:. Scrambled eggs | C3:. Scrambled eggs | C4:. Scrambled eggs | C5:. Scrambled eggs | C6:. Scrambled eggs
+R30: C2:. Shakshouka | C3:. Shakshouka | C4:. Shakshouka | C5:. Shakshouka | C6:. Shakshouka
+R36: C3:Holcom Cafeteria Menu
+ JUNE 15Th- JUNE 19TH , 2026
+R37: C2:Monday | C3:Tuesday | C4:Wednesday | C5:Thursday | C6:Friday
+R38: C2:Cold Sandwich | C3:Cold Sandwich | C4:Cold Sandwich | C5:Cold Sandwich | C6:Cold Sandwich
+R39: C2:. Turkey & cheese baguette | C3:. Crab viennois | C4:. Tuna Ciabatta Sandwich | C5:. Chicken Ceasar Baguette | C6:. Turkey & cheese baguette
+R40: C2:. Chicken avocado Baguette | C3:. Chicken Honey mustard  baguette | C4:. Chicken BBQ baguette | C5:. Halloum Pesto Viennois | C6:. Tuna Baguette
+R42: C2:Salads | C3:Salads | C4:Salads | C5:Salads | C6:Salads
+R43: C2:. Rocca Mushroom Salad | C3:.Season Salad | C4:. Crab exotic | C5:. Kale Quinoa | C6:. Fattouch
+R44: C2:. Nicoise | C3:. Greek Salad | C4:. Fattouch | C5:. Tuna pasta | C6:. Season Salad
+R45: C2:. Fattouch | C3:.Chicken pasta pesto salad | C4:. Tabboule | C5:. Season Salad | C6:. Rocca halloumi
+R46: C2:.Kale quinoa | C4:. Chicken noodles | C5:. Kale ceasar | C6:. Tuna salad
+R49: C2:Hot Sandwich | C3:Hot Sandwich | C4:Hot Sandwich | C5:Hot Sandwich | C6:Hot Sandwich
+R50: C2:.Oriental chicken sandwich | C4:.Chicken avocado sandwich | C5:.Falafel | C6:.Kafta sandwich
+R51: C5:.Fries sandwich
+R54: C2:Main Dish | C3:Main Dish | C4:Main Dish | C5:Main Dish | C6:Main Dish
+R55: C2:.Beef fajitas platter | C4:.Lasagna bolognese | C5:.Oriental beef with rice and yogurt | C6:.Fish siyadieh
+R56: C2:.Chicken jambalaya | C4:.Poulet a l'ancienne | C5:.Grilled chicken breast with baked baby potatoes and grilled vegetables, herbs sauce | C6:.Butter chicken with jasmine rice
+R57: C2:.Spinach stew without meat and rice | C4:.Mousakka eggplant | C5:.Balila | C6:.Pumpkin kebbe
+R59: C2:Appetizers & Mouajanat | C3:Appetizers & Mouajanat | C4:Appetizers & Mouajanat | C5:Appetizers & Mouajanat | C6:Appetizers & Mouajanat
+R60: C2:.Hommos | C4:.Cheese rolls | C5:.Mini fatayer | C6:. Moutabbal
+R61: C2:.Kebbe with hommos | C4:.Hommos | C5:.Mousakkhan chicken dip hommos | C6:. Hommos
+R63: C2:. Healthy menu: Grilled chicken breast platter, baked potato and green salad with lemon mustard dressing is available on daily basis.
+. New on the menu: Grilled salmon filet with vegetables, baked potatoes and lemon butter sauce, or Grilled beef filet with vegetables, baked potatoes  and mushroom sauce for 1,200,000 LBP TTC                                                         
+To ensure the best service and avoid any possible delays or misunderstandings, we kindly ask that you to reserve your plate before 11:30 AM.
+================================================================================
+FILE: dalia holcom 1 JUNE to  5 JUNE menu.xlsx
+================================================================================
+
+--- Sheet: Sheet1 (rows=62, cols=6) ---
+R2: C3:Holcom Cafeteria Menu  
+March 23- March 27 - 2026
+R3: C2:Monday | C3:Tuesday | C4:Wednesday | C5:Thursday | C6:Friday
+R4: C2:Breakfast | C3:Breakfast | C4:Breakfast | C5:Breakfast | C6:Breakfast
+R6: C2:Baguette or Kaak | C3:Baguette or Kaak | C4:Baguette or Kaak | C5:Baguette or Kaak | C6:Baguette or Kaak
+R7: C2:. Labneh | C3:. Labneh | C4:. Labneh | C5:. Labneh | C6:. Labneh
+R8: C2:. Halloum | C3:. Halloum | C4:. Halloum | C5:. Halloum | C6:. Halloum
+R9: C2:. Feta cheese | C3:. Feta cheese | C4:. Feta cheese | C5:. Feta cheese | C6:. Feta cheese
+R10: C2:. Mixed cheese | C3:. Mixed cheese | C4:. Mixed cheese | C5:. Mixed cheese | C6:. Mixed cheese
+R11: C2:. Turkey and Cheese | C3:. Turkey and Cheese | C4:. Turkey and Cheese | C5:. Turkey and Cheese | C6:. Turkey and Cheese
+R13: C2:Croissant & Puff Pastry | C3:Croissant & Puff Pastry | C4:Croissant & Puff Pastry | C5:Croissant & Puff Pastry | C6:Croissant & Puff Pastry
+R14: C2:. Thyme Croissant | C3:. Thyme Croissant | C4:. Thyme Croissant | C5:. Thyme Croissant | C6:. Thyme Croissant
+R15: C2:. Cheese Croissant | C3:. Cheese Croissant | C4:. Cheese Croissant | C5:. Cheese Croissant | C6:. Cheese Croissant
+R16: C2:. Chocolate Croissant | C3:. Chocolate Croissant | C4:. Chocolate Croissant | C5:. Chocolate Croissant | C6:. Chocolate Croissant
+R17: C2:. Pain Suisse | C3:. Pain Suisse | C4:. Pain Suisse | C5:. Pain Suisse | C6:. Pain Suisse
+R18: C2:. Rock Roll | C3:. Rock Roll | C4:. Rock Roll | C5:. Rock Roll | C6:. Rock Roll
+R20: C2:Healthy Bagles | C3:Healthy Bagels | C4:Healthy Bagels | C5:Healthy Bagels | C6:Healthy Bagels
+R21: C2:. Bagle Cream Cheese | C3:. Bagel Cream Cheese | C4:. Bagel Cream Cheese | C5:. Bagel Cream Cheese | C6:. Bagel Cream Cheese
+R22: C2:. Bagle Grilled Vegetables | C3:. Bagel Grilled Vegetables | C4:. Bagel Grilled Vegetables | C5:. Bagel Grilled Vegetables | C6:. Bagel Grilled Vegetables
+R23: C2:. Bagle Turkey & Cheese | C3:. Bagel Turkey & Cheese | C4:. Bagel Turkey & Cheese | C5:. Bagel Turkey & Cheese | C6:. Bagel Turkey & Cheese
+R25: C2:Manakish | C3:Manakish | C4:Manakish | C5:Manakish | C6:Manakish
+R26: C2:. Thyme Manakish | C3:. Thyme Manakish | C4:. Thyme Manakish | C5:. Thyme Manakish | C6:. Thyme Manakish
+R27: C2:. Cheese Manakish | C3:. Cheese Manakish | C4:. Cheese Manakish | C5:. Cheese Manakish | C6:. Cheese Manakish
+R29: C2:Eggs | C3:Eggs | C4:Eggs | C5:Eggs | C6:Eggs
+R30: C2:. Scrumbled Eggs | C3:. Scrumbled Eggs | C4:. Scrumbled Eggs | C5:. Scrumbled Eggs | C6:. Scrumbled Eggs
+R31: C2:. Shakshouka | C3:. Shakshouka | C4:. Shakshouka | C5:. Shakshouka | C6:. Shakshouka
+R33: C2:Appetizers & Mouajanat | C3:Appetizers & Mouajanat | C4:Appetizers & Mouajanat | C5:Appetizers & Mouajanat | C6:Appetizers & Mouajanat
+R34: C2:. Warak Enab bala lahme | C3:. Yalanji (zucchini & eggplant) | C4:. Hommos | C5:. Eggplant moutabbal | C6:. Batata Harra
+R35: C2:. Hommos | C3:. Eggplant moutabbal | C4:. Hindbeh Bel Zeit | C5:. Mini Fatayer thyme & spinach | C6:. Hommos
+R37: C3:Holcom Cafeteria Menu
+ March 23- March 27 - 2026
+R38: C2:Monday | C3:Tuesday | C4:Wednesday | C5:Thursday | C6:Friday
+R39: C2:Cold Sandwich | C3:Cold Sandwich | C4:Cold Sandwich | C5:Cold Sandwich | C6:Cold Sandwich
+R40: C2:. Chicken avocat | C3:. Chicken honey-mustard | C4:. Roast beef sandwich | C5:. Chicken Caeser baguette | C6:. Shredded crab sandwich
+R41: C2:. Tuna baguette | C3:. Chicken pesto baguette | C4:. White tuna ciabatta | C5:. Chicken BBQ baguette | C6:. White tuna ciabatta
+R43: C2:Salads | C3:Salads | C4:Salads | C5:Salads | C6:Salads
+R44: C2:.Gluten free pasta tuna salad | C3:. Greeck salad | C4:. Season Salad | C5:. Nicoise salad | C6:. Rocca & mushroom salad
+R45: C2:. Kale edamame salad | C3:. Nicoise salad | C4:. Tabbouleh | C5:. Salmon salad | C6:. Gluten free pasta tuna salad
+R46: C2:. Fattouche | C3:. Fattouch | C4:. Crab exotique salad | C5:. Grilled vegetables salad | C6:. Crab exotique salad
+R47: C2:. Tabbouleh | C3:. Kale Quinoa  salad | C4:. Chicken fajitas salad | C5:. Kale Caesar salad | C6:. Kale quinoa salad
+R48: C2:. Kale Quinoa salad | C3:. Season salad | C4:. Fattouche | C5:. Season salad | C6:. Fattouche
+R50: C2:Hot Sandwich | C3:Hot Sandwich | C4:Hot Sandwich | C5:Hot Sandwich | C6:Hot Sandwich
+R51: C2:. Grilled vegetables platter with hommos | C3:. Grilled vegetables platter with hommos | C4:. Grilled vegetables platter with hommos | C5:. Grilled vegetables platter with hommos | C6:. Grilled vegetables platter with hommos
+R52: C2:. French fries sandwich | C3:. French fries sandwich | C4:. French fries sandwich | C5:. French fries sandwich | C6:. French fries sandwich
+R53: C2:. Chicken avocat submarine | C3:. Tawouk Sandwich | C5:. Chicken mushroom submarine | C6:. Falafel sandwich
+R55: C2:Main Dish | C3:Main Dish | C4:Main Dish | C5:Main Dish | C6:Main Dish
+R56: C2:. Grilled kafta, bewaz, hummus and fries  30 | C3:. Cheikh el mehshi and rice 20 | C5:. Riz Betfin, meat and laban  15 | C6:. Samkeh Harra, wedge potatoes and tajen sauce 20
+R57: C2:. Cordon Blu escaloppe, wedge potatoes and coleslaw 40 | C3:. Chicken supr├¬me sauce and rice 30 | C5:. Grilled chicken breast, mashed potatoes, vegetables and sauce  40 | C6:. Poulet Malay with rice 25
+R58: C2:. Vegetarian stew and rice 15 | C3:. Chick peas fatte and laban 20 | C5:. Penne with tomate sauce 20 | C6:. Loubieh bel zeit with vegetables 25
+R60: C2:Dessert | C3:Dessert | C4:Dessert | C5:Dessert | C6:Dessert
+R61: C2:. Check our New Healthy Dessert selection | C3:. Check our New Healthy Dessert selection | C4:. Check our New Healthy Dessert selection | C5:. Check our New Healthy Dessert selection | C6:. Check our New Healthy Dessert selection
+R62: C2:. Healthy menu: Grilled chicken breast platter, baked potato and green salad with lemon mustard dressing is available on daily basis.
+. New on the menu: Grilled salmon filet with vegetables, baked potatoes and lemon butter sauce, or Grilled beef filet with vegetables, baked potatoes  and mushroom sauce for 1,200,000 LBP TTC                                                         
+To ensure the best service and avoid any possible delays or misunderstandings, we kindly ask that you to reserve your plate before 11:30 AM.
+
+--- Sheet: Menu (rows=63, cols=6) ---
+R2: C3:Holcom Cafeteria Menu
+ JUNE 1Th-JUNE 5TH , 2026
+R3: C2:Monday | C3:Tuesday | C4:Wednesday | C5:Thursday | C6:Friday
+R4: C2:Breakfast | C3:Breakfast | C4:Breakfast | C5:Breakfast | C6:Breakfast
+R5: C2:Baguette or Kaak | C3:Baguette or Kaak | C4:Baguette or Kaak | C5:Baguette or Kaak | C6:Baguette or Kaak
+R6: C2:. Labneh | C3:. Labneh | C4:. Labneh | C5:. Labneh | C6:. Labneh
+R7: C2:. Halloum | C3:. Halloum | C4:. Halloum | C5:. Halloum | C6:. Halloum
+R8: C2:. Feta cheese | C3:. Feta cheese | C4:. Feta cheese | C5:. Feta cheese | C6:. Feta cheese
+R9: C2:. Mixed cheese | C3:. Mixed cheese | C4:. Mixed cheese | C5:. Mixed cheese | C6:. Mixed cheese
+R10: C2:. Turkey and cheese | C3:. Turkey and cheese | C4:. Turkey and cheese | C5:. Turkey and cheese | C6:. Turkey and cheese
+R12: C2:Croissant & Puff Pastry | C3:Croissant & Puff Pastry | C4:Croissant & Puff Pastry | C5:Croissant & Puff Pastry | C6:Croissant & Puff Pastry
+R13: C2:. Thyme croissant | C3:. Thyme croissant | C4:. Thyme croissant | C5:. Thyme croissant | C6:. Thyme croissant
+R14: C2:. Cheese croissant | C3:. Cheese croissant | C4:. Cheese croissant | C5:. Cheese croissant | C6:. Cheese croissant
+R15: C2:. Chocolate croissant | C3:. Chocolate croissant | C4:. Chocolate croissant | C5:. Chocolate croissant | C6:. Chocolate croissant
+R16: C2:. Pain Suisse | C3:. Pain Suisse | C4:. Pain Suisse | C5:. Pain Suisse | C6:. Pain Suisse
+R17: C2:. Rock roll | C3:. Rock roll | C4:. Rock roll | C5:. Rock roll | C6:. Rock roll
+R19: C2:Healthy Bagles | C3:Healthy Bagels | C4:Healthy Bagels | C5:Healthy Bagels | C6:Healthy Bagels
+R20: C2:. Bagel cream cheese | C3:. Bagel cream cheese | C4:. Bagel cream cheese | C5:. Bagel cream cheese | C6:. Bagel cream cheese
+R21: C2:. Bagel grilled vegetables | C3:. Bagel grilled vegetables | C4:. Bagel grilled vegetables | C5:. Bagel grilled vegetables | C6:. Bagel grilled vegetables
+R22: C2:. Bagel turkey & cheese | C3:. Bagel turkey & cheese | C4:. Bagel turkey & cheese | C5:. Bagel turkey & cheese | C6:. Bagel turkey & cheese
+R24: C2:Manakish | C3:Manakish | C4:Manakish | C5:Manakish | C6:Manakish
+R25: C2:. Thyme manakish | C3:. Thyme manakish | C4:. Thyme manakish | C5:. Thyme manakish | C6:. Thyme manakish
+R26: C2:. Cheese manakish | C3:. Cheese manakish | C4:. Cheese manakish | C5:. Cheese manakish | C6:. Cheese manakish
+R28: C2:Eggs | C3:Eggs | C4:Eggs | C5:Eggs | C6:Eggs
+R29: C2:. Scrambled eggs | C3:. Scrambled eggs | C4:. Scrambled eggs | C5:. Scrambled eggs | C6:. Scrambled eggs
+R30: C2:. Shakshouka | C3:. Shakshouka | C4:. Shakshouka | C5:. Shakshouka | C6:. Shakshouka
+R36: C3:Holcom Cafeteria Menu
+ JUNE 1Th- JUNE 5TH , 2026
+R37: C2:Monday | C3:Tuesday | C4:Wednesday | C5:Thursday | C6:Friday
+R38: C2:Cold Sandwich | C3:Cold Sandwich | C4:Cold Sandwich | C5:Cold Sandwich | C6:Cold Sandwich
+R39: C2:. Turkey & cheese baguette | C3:. Crab viennois | C4:. Tuna Ciabatta Sandwich | C5:. Chicken Ceasar Baguette | C6:. Turkey & cheese baguette
+R40: C2:. Chicken avocado Baguette | C3:. Chicken fajitas  baguette | C4:. Chicken BBQ baguette | C5:. Halloum Pesto Viennois | C6:. Tuna Baguette
+R42: C2:Salads | C3:Salads | C4:Salads | C5:Salads | C6:Salads
+R43: C2:. Rocca Mushroom Salad | C3:.Season Salad | C4:. Crab exotic | C5:. Kale Quinoa | C6:. Fattouch
+R44: C2:. Nicoise | C3:. Greek Salad | C4:. Fattouch | C5:. Tuna pasta | C6:. Season Salad
+R45: C2:. Fattouch | C3:.Chicken pasta pesto salad | C4:. Tabboule | C5:. Season Salad | C6:. Chef salad
+R46: C2:. Grilled Vegetables Salad | C3:.Grilled corn edamame | C4:. Chef salad | C5:. Beeroots Orange Salad | C6:. Tuna salad
+R49: C2:Hot Sandwich | C3:Hot Sandwich | C4:Hot Sandwich | C5:Hot Sandwich | C6:Hot Sandwich
+R50: C2:.Steak sandwich | C3:. Brisket burger | C4:.Roast beef sandwich | C5:.Baked cauliflower with tarator | C6:. Fries sandwich
+R54: C2:Main Dish | C3:Main Dish | C4:Main Dish | C5:Main Dish | C6:Main Dish
+R55: C2:.Daoud bacha with vermicelli rice | C3:.Zucchini and vine leaves with meat and yogurt | C4:.Beef souffle | C5:.Beef stroganoff | C6:.Fish couscous
+R56: C2:.Chicken mograbieh | C3:.Chinese chicken with noodles | C4:.Crispy chicken with honey mustard and wedges | C5:.Grilled chicken breast with potatoes dauphinoi and mushroom sauce | C6:.Chicken fajitas platter
+R57: C2:.Quiche Spinach | C3:.Okra stew with vermicelli rice | C4:.Stuffed cabbage in oil | C5:.Ratatouille with rice | C6:.Bourghol tomato
+R59: C2:Appetizers & Mouajanat | C3:Appetizers & Mouajanat | C4:Appetizers & Mouajanat | C5:Appetizers & Mouajanat | C6:Appetizers & Mouajanat
+R60: C2:.Hommos | C3:. Hindbeh in oil | C4:.Cheese rolls | C5:.Mini fatayer | C6:. Mini Pizza
+R61: C2:.Mini fatayer | C3:.Moutabbal | C4:.Hommos | C5:.Mix mouajanet | C6:. Hommos
+R63: C2:. Healthy menu: Grilled chicken breast platter, baked potato and green salad with lemon mustard dressing is available on daily basis.
+. New on the menu: Grilled salmon filet with vegetables, baked potatoes and lemon butter sauce, or Grilled beef filet with vegetables, baked potatoes  and mushroom sauce for 1,200,000 LBP TTC                                                         
+To ensure the best service and avoid any possible delays or misunderstandings, we kindly ask that you to reserve your plate before 11:30 AM.
+================================================================================
+FILE: dalia menu 25 to 29 may.xlsx
+================================================================================
+
+--- Sheet: Sheet1 (rows=62, cols=6) ---
+R2: C3:Holcom Cafeteria Menu  
+March 23- March 27 - 2026
+R3: C2:Monday | C3:Tuesday | C4:Wednesday | C5:Thursday | C6:Friday
+R4: C2:Breakfast | C3:Breakfast | C4:Breakfast | C5:Breakfast | C6:Breakfast
+R6: C2:Baguette or Kaak | C3:Baguette or Kaak | C4:Baguette or Kaak | C5:Baguette or Kaak | C6:Baguette or Kaak
+R7: C2:. Labneh | C3:. Labneh | C4:. Labneh | C5:. Labneh | C6:. Labneh
+R8: C2:. Halloum | C3:. Halloum | C4:. Halloum | C5:. Halloum | C6:. Halloum
+R9: C2:. Feta cheese | C3:. Feta cheese | C4:. Feta cheese | C5:. Feta cheese | C6:. Feta cheese
+R10: C2:. Mixed cheese | C3:. Mixed cheese | C4:. Mixed cheese | C5:. Mixed cheese | C6:. Mixed cheese
+R11: C2:. Turkey and Cheese | C3:. Turkey and Cheese | C4:. Turkey and Cheese | C5:. Turkey and Cheese | C6:. Turkey and Cheese
+R13: C2:Croissant & Puff Pastry | C3:Croissant & Puff Pastry | C4:Croissant & Puff Pastry | C5:Croissant & Puff Pastry | C6:Croissant & Puff Pastry
+R14: C2:. Thyme Croissant | C3:. Thyme Croissant | C4:. Thyme Croissant | C5:. Thyme Croissant | C6:. Thyme Croissant
+R15: C2:. Cheese Croissant | C3:. Cheese Croissant | C4:. Cheese Croissant | C5:. Cheese Croissant | C6:. Cheese Croissant
+R16: C2:. Chocolate Croissant | C3:. Chocolate Croissant | C4:. Chocolate Croissant | C5:. Chocolate Croissant | C6:. Chocolate Croissant
+R17: C2:. Pain Suisse | C3:. Pain Suisse | C4:. Pain Suisse | C5:. Pain Suisse | C6:. Pain Suisse
+R18: C2:. Rock Roll | C3:. Rock Roll | C4:. Rock Roll | C5:. Rock Roll | C6:. Rock Roll
+R20: C2:Healthy Bagles | C3:Healthy Bagels | C4:Healthy Bagels | C5:Healthy Bagels | C6:Healthy Bagels
+R21: C2:. Bagle Cream Cheese | C3:. Bagel Cream Cheese | C4:. Bagel Cream Cheese | C5:. Bagel Cream Cheese | C6:. Bagel Cream Cheese
+R22: C2:. Bagle Grilled Vegetables | C3:. Bagel Grilled Vegetables | C4:. Bagel Grilled Vegetables | C5:. Bagel Grilled Vegetables | C6:. Bagel Grilled Vegetables
+R23: C2:. Bagle Turkey & Cheese | C3:. Bagel Turkey & Cheese | C4:. Bagel Turkey & Cheese | C5:. Bagel Turkey & Cheese | C6:. Bagel Turkey & Cheese
+R25: C2:Manakish | C3:Manakish | C4:Manakish | C5:Manakish | C6:Manakish
+R26: C2:. Thyme Manakish | C3:. Thyme Manakish | C4:. Thyme Manakish | C5:. Thyme Manakish | C6:. Thyme Manakish
+R27: C2:. Cheese Manakish | C3:. Cheese Manakish | C4:. Cheese Manakish | C5:. Cheese Manakish | C6:. Cheese Manakish
+R29: C2:Eggs | C3:Eggs | C4:Eggs | C5:Eggs | C6:Eggs
+R30: C2:. Scrumbled Eggs | C3:. Scrumbled Eggs | C4:. Scrumbled Eggs | C5:. Scrumbled Eggs | C6:. Scrumbled Eggs
+R31: C2:. Shakshouka | C3:. Shakshouka | C4:. Shakshouka | C5:. Shakshouka | C6:. Shakshouka
+R33: C2:Appetizers & Mouajanat | C3:Appetizers & Mouajanat | C4:Appetizers & Mouajanat | C5:Appetizers & Mouajanat | C6:Appetizers & Mouajanat
+R34: C2:. Warak Enab bala lahme | C3:. Yalanji (zucchini & eggplant) | C4:. Hommos | C5:. Eggplant moutabbal | C6:. Batata Harra
+R35: C2:. Hommos | C3:. Eggplant moutabbal | C4:. Hindbeh Bel Zeit | C5:. Mini Fatayer thyme & spinach | C6:. Hommos
+R37: C3:Holcom Cafeteria Menu
+ March 23- March 27 - 2026
+R38: C2:Monday | C3:Tuesday | C4:Wednesday | C5:Thursday | C6:Friday
+R39: C2:Cold Sandwich | C3:Cold Sandwich | C4:Cold Sandwich | C5:Cold Sandwich | C6:Cold Sandwich
+R40: C2:. Chicken avocat | C3:. Chicken honey-mustard | C4:. Roast beef sandwich | C5:. Chicken Caeser baguette | C6:. Shredded crab sandwich
+R41: C2:. Tuna baguette | C3:. Chicken pesto baguette | C4:. White tuna ciabatta | C5:. Chicken BBQ baguette | C6:. White tuna ciabatta
+R43: C2:Salads | C3:Salads | C4:Salads | C5:Salads | C6:Salads
+R44: C2:.Gluten free pasta tuna salad | C3:. Greeck salad | C4:. Season Salad | C5:. Nicoise salad | C6:. Rocca & mushroom salad
+R45: C2:. Kale edamame salad | C3:. Nicoise salad | C4:. Tabbouleh | C5:. Salmon salad | C6:. Gluten free pasta tuna salad
+R46: C2:. Fattouche | C3:. Fattouch | C4:. Crab exotique salad | C5:. Grilled vegetables salad | C6:. Crab exotique salad
+R47: C2:. Tabbouleh | C3:. Kale Quinoa  salad | C4:. Chicken fajitas salad | C5:. Kale Caesar salad | C6:. Kale quinoa salad
+R48: C2:. Kale Quinoa salad | C3:. Season salad | C4:. Fattouche | C5:. Season salad | C6:. Fattouche
+R50: C2:Hot Sandwich | C3:Hot Sandwich | C4:Hot Sandwich | C5:Hot Sandwich | C6:Hot Sandwich
+R51: C2:. Grilled vegetables platter with hommos | C3:. Grilled vegetables platter with hommos | C4:. Grilled vegetables platter with hommos | C5:. Grilled vegetables platter with hommos | C6:. Grilled vegetables platter with hommos
+R52: C2:. French fries sandwich | C3:. French fries sandwich | C4:. French fries sandwich | C5:. French fries sandwich | C6:. French fries sandwich
+R53: C2:. Chicken avocat submarine | C3:. Tawouk Sandwich | C5:. Chicken mushroom submarine | C6:. Falafel sandwich
+R55: C2:Main Dish | C3:Main Dish | C4:Main Dish | C5:Main Dish | C6:Main Dish
+R56: C2:. Grilled kafta, bewaz, hummus and fries  30 | C3:. Cheikh el mehshi and rice 20 | C5:. Riz Betfin, meat and laban  15 | C6:. Samkeh Harra, wedge potatoes and tajen sauce 20
+R57: C2:. Cordon Blu escaloppe, wedge potatoes and coleslaw 40 | C3:. Chicken supr├¬me sauce and rice 30 | C5:. Grilled chicken breast, mashed potatoes, vegetables and sauce  40 | C6:. Poulet Malay with rice 25
+R58: C2:. Vegetarian stew and rice 15 | C3:. Chick peas fatte and laban 20 | C5:. Penne with tomate sauce 20 | C6:. Loubieh bel zeit with vegetables 25
+R60: C2:Dessert | C3:Dessert | C4:Dessert | C5:Dessert | C6:Dessert
+R61: C2:. Check our New Healthy Dessert selection | C3:. Check our New Healthy Dessert selection | C4:. Check our New Healthy Dessert selection | C5:. Check our New Healthy Dessert selection | C6:. Check our New Healthy Dessert selection
+R62: C2:. Healthy menu: Grilled chicken breast platter, baked potato and green salad with lemon mustard dressing is available on daily basis.
+. New on the menu: Grilled salmon filet with vegetables, baked potatoes and lemon butter sauce, or Grilled beef filet with vegetables, baked potatoes  and mushroom sauce for 1,200,000 LBP TTC                                                         
+To ensure the best service and avoid any possible delays or misunderstandings, we kindly ask that you to reserve your plate before 11:30 AM.
+
+--- Sheet: Menu (rows=63, cols=6) ---
+R2: C3:Holcom Cafeteria Menu
+ MAY 25Th- MAY 29TH , 2026
+R3: C2:Monday | C3:Tuesday | C4:Wednesday | C5:Thursday | C6:Friday
+R4: C2:Breakfast | C3:Breakfast | C4:Breakfast | C5:Breakfast | C6:Breakfast
+R5: C2:Baguette or Kaak | C3:Baguette or Kaak | C4:Baguette or Kaak | C5:Baguette or Kaak | C6:Baguette or Kaak
+R6: C2:. Labneh | C3:. Labneh | C4:. Labneh | C5:. Labneh | C6:. Labneh
+R7: C2:. Halloum | C3:. Halloum | C4:. Halloum | C5:. Halloum | C6:. Halloum
+R8: C2:. Feta cheese | C3:. Feta cheese | C4:. Feta cheese | C5:. Feta cheese | C6:. Feta cheese
+R9: C2:. Mixed cheese | C3:. Mixed cheese | C4:. Mixed cheese | C5:. Mixed cheese | C6:. Mixed cheese
+R10: C2:. Turkey and cheese | C3:. Turkey and cheese | C4:. Turkey and cheese | C5:. Turkey and cheese | C6:. Turkey and cheese
+R12: C2:Croissant & Puff Pastry | C3:Croissant & Puff Pastry | C4:Croissant & Puff Pastry | C5:Croissant & Puff Pastry | C6:Croissant & Puff Pastry
+R13: C2:. Thyme croissant | C3:. Thyme croissant | C4:. Thyme croissant | C5:. Thyme croissant | C6:. Thyme croissant
+R14: C2:. Cheese croissant | C3:. Cheese croissant | C4:. Cheese croissant | C5:. Cheese croissant | C6:. Cheese croissant
+R15: C2:. Chocolate croissant | C3:. Chocolate croissant | C4:. Chocolate croissant | C5:. Chocolate croissant | C6:. Chocolate croissant
+R16: C2:. Pain Suisse | C3:. Pain Suisse | C4:. Pain Suisse | C5:. Pain Suisse | C6:. Pain Suisse
+R17: C2:. Rock roll | C3:. Rock roll | C4:. Rock roll | C5:. Rock roll | C6:. Rock roll
+R19: C2:Healthy Bagles | C3:Healthy Bagels | C4:Healthy Bagels | C5:Healthy Bagels | C6:Healthy Bagels
+R20: C2:. Bagel cream cheese | C3:. Bagel cream cheese | C4:. Bagel cream cheese | C5:. Bagel cream cheese | C6:. Bagel cream cheese
+R21: C2:. Bagel grilled vegetables | C3:. Bagel grilled vegetables | C4:. Bagel grilled vegetables | C5:. Bagel grilled vegetables | C6:. Bagel grilled vegetables
+R22: C2:. Bagel turkey & cheese | C3:. Bagel turkey & cheese | C4:. Bagel turkey & cheese | C5:. Bagel turkey & cheese | C6:. Bagel turkey & cheese
+R24: C2:Manakish | C3:Manakish | C4:Manakish | C5:Manakish | C6:Manakish
+R25: C2:. Thyme manakish | C3:. Thyme manakish | C4:. Thyme manakish | C5:. Thyme manakish | C6:. Thyme manakish
+R26: C2:. Cheese manakish | C3:. Cheese manakish | C4:. Cheese manakish | C5:. Cheese manakish | C6:. Cheese manakish
+R28: C2:Eggs | C3:Eggs | C4:Eggs | C5:Eggs | C6:Eggs
+R29: C2:. Scrambled eggs | C3:. Scrambled eggs | C4:. Scrambled eggs | C5:. Scrambled eggs | C6:. Scrambled eggs
+R30: C2:. Shakshouka | C3:. Shakshouka | C4:. Shakshouka | C5:. Shakshouka | C6:. Shakshouka
+R36: C3:Holcom Cafeteria Menu
+ MAY 25Th- MAY 29TH , 2026
+R37: C2:Monday | C3:Tuesday | C4:Wednesday | C5:Thursday | C6:Friday
+R38: C2:Cold Sandwich | C3:Cold Sandwich | C4:Cold Sandwich | C5:Cold Sandwich | C6:Cold Sandwich
+R39: C2:. Turkey & cheese baguette | C3:. Crab viennois | C6:. Turkey & cheese baguette
+R40: C2:. Chicken avocado Baguette | C3:. Chicken fajitas  baguette | C6:. Tuna Baguette
+R42: C2:Salads | C3:Salads | C4:Salads | C5:Salads | C6:Salads
+R43: C2:. Rocca Mushroom Salad | C3:.Season Salad | C6:. Fattouch
+R44: C2:. Nicoise | C3:. Crab exotic salad | C6:. Season Salad
+R45: C2:. Fattouch | C3:.Chicken pasta pesto salad | C6:. Chef salad
+R46: C2:. Grilled Vegetables Salad | C3:.Grilled corn edamame | C6:. Tuna salad
+R49: C2:Hot Sandwich | C3:Hot Sandwich | C4:Hot Sandwich | C5:Hot Sandwich | C6:Hot Sandwich
+R50: C2:.Kafta sandwich | C3:.Chicken BBQ sandwich | C6:.Pizza Pepperoni
+R54: C2:Main Dish | C3:Main Dish | C4:Main Dish | C5:Main Dish | C6:Main Dish
+R56: C2:.Beef bourguignon with jasmine rice | C3:.Chicken jaipur with Tricolore rice | C6:.Fish siyadieh
+R57: C2:.Chicken nouille | C3:.Baked Fish with vegetables macedoine and baby potatoes with butter lemon sauce | C6:.Chinese chicken noodles
+R58: C2:.Green peas stew without meat and rice | C3:.Melanzane parmegianna | C6:.Moujaddara with cabbage salad
+R59: C2:Appetizers & Mouajanat | C3:Appetizers & Mouajanat | C4:Appetizers & Mouajanat | C5:Appetizers & Mouajanat | C6:Appetizers & Mouajanat
+R60: C2:.Hommos | C3:. Hindbeh in oil | C6:. Mini Pizza
+R61: C2:.Mini fatayer | C3:.Moutabbal | C6:. Hommos
+R63: C2:. Healthy menu: Grilled chicken breast platter, baked potato and green salad with lemon mustard dressing is available on daily basis.
+. New on the menu: Grilled salmon filet with vegetables, baked potatoes and lemon butter sauce, or Grilled beef filet with vegetables, baked potatoes  and mushroom sauce for 1,200,000 LBP TTC                                                         
+To ensure the best service and avoid any possible delays or misunderstandings, we kindly ask that you to reserve your plate before 11:30 AM.
